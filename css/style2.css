@@ -14,7 +14,7 @@ body {
 * {
   margin: 20px auto 20px;
   align-content: center;
-
+box-sizing: border-box;
 }
 
 
@@ -170,6 +170,8 @@ h2 {
   width: auto;
   text-align: center;
   padding: 20px;
+}
+table {text-align: left;
 }
 
 #Contacts {

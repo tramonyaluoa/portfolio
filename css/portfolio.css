@@ -102,29 +102,33 @@ img{
    }
 
 .box1 { 
+  padding-top: 30px;
   justify-content: flex-start;
 	text-align: center;
  }
 
 .box2 { 
+  padding-top: 30px;
   justify-content: flex-start;
 	text-align: center;
 }
 
 .box3 { 
+  padding-top: 30px;
   justify-content: flex-start;
 	text-align: center;
 } 
 
 .box4 { 
+  padding-top: 30px;
   justify-content: flex-start;
 	text-align: center;
   }
 
-.box5 { 
+/* .box5 { 
   justify-content: flex-start;
 	text-align: center;  
-}
+} */
 
 figcaption {
   font-size: 10px;

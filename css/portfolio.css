@@ -125,10 +125,11 @@ img{
 	text-align: center;
   }
 
-/* .box5 { 
+ .box5 { 
+ padding-top: 30px;
   justify-content: flex-start;
 	text-align: center;  
-} */
+} 
 
 figcaption {
   font-size: 10px;
